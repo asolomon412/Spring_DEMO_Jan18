@@ -2,7 +2,7 @@
 	pageEncoding="UTF-8"%>
 
 
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%><!-- ******* You must add this to use the forTokens loop below ***** -->
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%><!-- ******* You must add this to use the forEach loop below ***** -->
 <!DOCTYPE html>
 <html>
 <head>
