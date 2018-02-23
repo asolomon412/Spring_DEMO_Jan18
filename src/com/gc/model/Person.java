@@ -79,6 +79,8 @@ public class Person  {
 		this.favorites = favorites;
 	}
 	
-	
+	public String toString() {
+		return getFirstName() + " " + getLastName() + " " + getPhoneNum() + " " + getGender();
+	}
 
 }
